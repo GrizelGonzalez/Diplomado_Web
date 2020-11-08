@@ -1,0 +1,37 @@
+div{
+    background-color: antiquewhite;
+    width: 800px;
+    height:400px;
+    padding-top: 2px;
+    padding-left: 8px;
+    padding-right: 8px;
+
+}
+h1{
+    background-color: rgb(16,15,15);
+    color: white;
+    border: 5px solid red;
+    margin-bottom: -1px;
+}
+.div2{
+    background-color: purple;
+    width: 783px;
+    height: 200px;
+}
+table{
+    padding-top: 50px;
+}
+th{
+    color: azure;
+
+}
+td{
+    font-weight: bold;
+}
+.div3{
+    background-color: cornflowerblue;
+    width: 783px;
+    height: 25px;
+    font-weight: bolder;
+    text-align:right;
+}
